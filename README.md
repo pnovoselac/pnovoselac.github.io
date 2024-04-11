@@ -1,7 +1,7 @@
 # LV 1 zadatak - Osobna stranica
 
 ### LINK: 
-
+https://pnovoselac.github.io/ 
 <hr />
 
 ## Opis zadatka
